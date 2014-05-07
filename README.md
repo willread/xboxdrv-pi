@@ -6,4 +6,4 @@ A version of the xboxdrv package from the arch aur compiled for the armv6h platf
 Install
 =======
 
-	sudo pacman -U https://github.com/collectivecognition/xboxdrv-pi/bin/xboxdrv-0.8.5-1-armv6h.pkg.tar.xz
+	sudo pacman -U https://github.com/collectivecognition/xboxdrv-pi/raw/master/bin/xboxdrv-0.8.5-1-armv6h.pkg.tar.xz 
